@@ -102,7 +102,7 @@ int __cdecl main(int argc, char *argv[])
 	}
 	cout << "FOUND.\n";
 	cout << "Enter installation directory: ";
-	scanf_s("%s", InstallDir, (unsigned)_countof(InstallDir));
+	cin.getline(InstallDir, MAX_PATH);
 	FetchingPassword(InstallDir, &password);
 	if (password != "")
 	{
