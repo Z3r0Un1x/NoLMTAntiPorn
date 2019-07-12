@@ -64,6 +64,8 @@ VOID FetchingPassword(IN char lpDir[], OUT string * PasswordFetched)
 	}
 	else
 		cout << "ERR: Invalid file path!";
+	if (szPassPath != NULL)
+		SecureZeroMemory(szPassPath, sizeof(szPassPath));
 	return VOID();
 }
 
@@ -116,6 +118,8 @@ int __cdecl main(int argc, char *argv[])
 Cleanup:
 	cout << "More at https://fb.me/ZeroUnix \n";
 	system("pause");
+	if (InstallDir != NULL)
+		SecureZeroMemory(InstallDir, sizeof(InstallDir));	
 	return retCode;
 }
 
