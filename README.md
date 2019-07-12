@@ -1,7 +1,7 @@
 # NoLMTAntiPorn
 `NoLMTAntiPorn` is a simple cmd-line interface ***password reader*** for `LMTAntiPorn`. It can read the app's password (which "encrypted/protected" with combination of DES, MD5 and encoded by Base64) *directly* as plain-text without any decryption methods. 
 
-Worked with LMTAntiPorn version 3.1 and lower (tested on Windows 10 64-bit).
+Worked with LMTAntiPorn version **3.1** and **lower** (tested on Windows 10 64-bit).
 
 **Warning:** *This tool (NoLMTAntiPorn) is just for **educational purpose** and doesn't do any harm for the clients and LMTAntiPorn online server.* Please read the sources before leaving any comments. Thanks.
 
