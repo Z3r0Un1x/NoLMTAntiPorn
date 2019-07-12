@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/priority-low-lightgrey.svg)
 # NoLMTAntiPorn
 `NoLMTAntiPorn` is a simple cmd-line interface ***password reader*** for `LMTAntiPorn`. It can read the app's password (which "encrypted/protected" with combination of DES, MD5 and encoded by Base64) *directly* as plain-text without any decryption methods. 
 
