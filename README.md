@@ -20,6 +20,7 @@ Contributions are welcome.
 ## Credits
 **The original program belongs to Lê Minh Thành.**
 LMTAntiPorn Homepage: [Available on Github](https://leminhthanh1998.github.io/lmt-anti-porn)
+
 LMTAntiPorn's Owner: [Lê Minh Thành](https://www.facebook.com/leminhthanh1998)
 
 **Integrity**
