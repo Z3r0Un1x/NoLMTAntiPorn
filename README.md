@@ -31,5 +31,5 @@ LMTAntiPorn's Owner: [Lê Minh Thành](https://www.facebook.com/leminhthanh1998)
 
 |Application|Version| MD5 Hash | 
 |--|--|--|
-| LMTAntiPorn |3.1| 07E8B02CF6C0171B6A7BA507F2939C9E |
+| LMTAntiPorn |3.1.0| 07E8B02CF6C0171B6A7BA507F2939C9E |
 | NoLMTAntiPorn|0.1.2|0A2A771C8F2F60CD11C3870546E8FD5C |
